@@ -1,1 +1,3 @@
-# GPT_image_generator_demonstration
+# Image Generator Demonstration
+
+:construction: This is a work in progress :construction:
