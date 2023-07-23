@@ -17,10 +17,10 @@
 - - -
 The purpose of this project is for education. As I find guides, tutorials, and seek others for advice, I will give credit and link the source in the folder of the demo. This repository is under MIT License meaning there is no warranty and the code is provided "AS IS". 
 
-:white_check_mark: Commercial use
-:white_check_mark: Modification
-:white_check_mark: Distribution
-:white_check_mark: Private use
+- :white_check_mark: Commercial use
+- :white_check_mark: Modification
+- :white_check_mark: Distribution
+- :white_check_mark: Private use
 
-:x: Liability
-:x: Warranty
+- :x: Liability
+- :x: Warranty
